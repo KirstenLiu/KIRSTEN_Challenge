@@ -1,6 +1,9 @@
 # KIRSTEN_Challenge
 
-I choose to solve the Coding problem from hackerrank in Python to demostrate that I can code both in Python and Go.
+Please refer to this branch for challenge 3.
+And refer to another branch for challenge 1.
+
+I choose to solve the Coding problem(challenge 3) from hackerrank in Python to demostrate that I can code both in Python and Go.
 I did the rest of other two challenges in Go.
 
 I name the Coding problem file validating-credit-card-number.py
